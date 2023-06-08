@@ -22,6 +22,8 @@ Video Pitch: https://www.youtube.com/watch?v=OsBAFnV4PAQ <br/>
   POST E GET ALL: /publicacao
   
   PUT, DELETE AND GET BY ID: /publicacao/{id}
+  
+  
 
 # JSON
 
