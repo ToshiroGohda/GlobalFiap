@@ -14,7 +14,7 @@ Video Pitch: https://www.youtube.com/watch?v=OsBAFnV4PAQ <br/>
   GET BY ID: /usuario/id/{id}
 
   PUT E DELETE: /usuario/{id}
-<br>
+<br/>
 <b2>/publicacao</h2>
 
   POST E GET ALL: /publicacao
