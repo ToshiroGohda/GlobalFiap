@@ -5,7 +5,7 @@ Video Pitch: https://www.youtube.com/watch?v=OsBAFnV4PAQ <br/>
 
 # ENDPOINTS
 
-/usuario
+<h2>/usuario</h2>
   
   POST E GET ALL: /usuario
 
@@ -14,8 +14,8 @@ Video Pitch: https://www.youtube.com/watch?v=OsBAFnV4PAQ <br/>
   GET BY ID: /usuario/id/{id}
 
   PUT E DELETE: /usuario/{id}
-
-/publicacao
+<br>
+<b2>/publicacao</h2>
 
   POST E GET ALL: /publicacao
   
@@ -35,12 +35,12 @@ Video Pitch: https://www.youtube.com/watch?v=OsBAFnV4PAQ <br/>
   
   <h2>PUBLICACAO</h2>
   
-  {
-      "id_usuario": null,
-      "nm_titulo": "titulo",
-      "ds_conteudo": "conteudo",
-      "ds_assunto": "assunto"
-  }
+    {
+        "id_usuario": null,
+        "nm_titulo": "titulo",
+        "ds_conteudo": "conteudo",
+        "ds_assunto": "assunto",
+    }
   
 # Integrantes
 
