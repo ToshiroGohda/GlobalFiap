@@ -2,6 +2,9 @@
 
 Video Pitch: https://www.youtube.com/watch?v=OsBAFnV4PAQ <br/>
 
+Diagrama UML:
+
+![alt text](https://github.com/ToshiroGohda/GlobalFiap/blob/main/Diagrama.jpg)
 
 # ENDPOINTS
 
