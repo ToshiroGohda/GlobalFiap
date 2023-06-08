@@ -17,7 +17,7 @@ Video Pitch: https://www.youtube.com/watch?v=OsBAFnV4PAQ <br/>
   
 <br/>
 
-<b2>/publicacao</h2>
+<h2>/publicacao</h2>
 
   POST E GET ALL: /publicacao
   
